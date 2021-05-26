@@ -3,6 +3,9 @@
 <br/> -->
 
 ## Hello there, I'm <a href="https://david-pardo.com" target="_blank">David</a>!
+
+I am a mechatronic engineer who enjoys coding and designing mechanical and electronic systems.
+
 (Use dark theme to see my socials)
 
 <a href="https://david-pardo.com" target="_blank"><img align="left" alt="david-pardo.com" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/Social/www.svg" /></a>
