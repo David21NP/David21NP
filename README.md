@@ -2,11 +2,11 @@
 <br/>
 <br/> -->
 
-## Hey, I'm <a href="https://david-pardo.com" target="_blank">David</a>!
-<!-- (Use dark theme to find my socials ;) -->
+## Hello there, I'm <a href="https://david-pardo.com" target="_blank">David</a>!
+(Use dark theme to see my socials)
 
-<a href="https://david-pardo.com" target="_blank"><img align="left" alt="david-pardo.com" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/www.svg" /></a>
-<a href="https://linkedin.com/in/David" target="_blank"><img align="left" alt="David P | LinkedIn" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/linkedin.svg" />
+<a href="https://david-pardo.com" target="_blank"><img align="left" alt="david-pardo.com" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/Social/www.svg" /></a>
+<a href="https://linkedin.com/in/David" target="_blank"><img align="left" alt="David P | LinkedIn" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/Social/linkedin.svg" />
 <!-- <a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/behance.svg" />
 <a href="https://dribbble.com/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Dribbble" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/dribbble.svg" />
 <a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/insta.svg" />
@@ -20,6 +20,7 @@
 
 ### 📕 Latest Blog Post
 
+  I'm just beginning my first blog
 <!-- BLOG-POST-LIST:START -->
 <!-- - [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
 - [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
@@ -34,16 +35,26 @@
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/c-programming.png"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/c++.png"/> </a>
+<a href="https://www.javascript.com" target="_blank"> <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> </a>
+<a href="https://nuxtjs.org/" target="_blank"> <img align="left" alt="Nuxtjs" width="26px" src="https://nuxtjs.org/logos/nuxt-white.svg"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/c++.png"/> </a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/python-5.svg?raw=true"/> </a>
+<!-- <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/c-programming.png"/> </a> -->
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/github.svg" />
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" width="26px" src="https://www.docker.com/assets/logo-files/Docker-Logo-White-RGB_Moby.png"/> </a>
+<a href="https://dart.dev/" target="_blank"> <img align="left" alt="Dart" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/Dart.svg"/> </a>
+<a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Flutter" width="20px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/Flutter.svg"/> </a>
+<a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="Arduino community" width="56px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/ArduinoCommunityLogo_SVG.svg"/> </a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/github.svg" />
 <br />
 <br />
+
 ### Softwares:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Matlab" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Softwares/Matlab_Logo.png" />
+<img align="left" alt="Solidworks" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Softwares/Solidworks.png" />
+  <img align="left" alt="Solidworks" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Softwares/unity-tab-circle-black.png" />
 <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/adobexd.png?raw=true"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/illustrator.png?raw=true"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/photoshop.png?raw=true"/> </a>
