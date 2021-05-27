@@ -9,7 +9,7 @@ I am a mechatronic engineer who enjoys coding and designing mechanical and elect
 (Use dark theme to see my socials)
 
 <a href="https://david-pardo.com" target="_blank"><img align="left" alt="david-pardo.com" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/Social/www.svg" /></a>
-<a href="www.linkedin.com/in/david-pardo-2102" target="_blank"><img align="left" alt="David P | LinkedIn" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/Social/linkedin.svg" />
+<a href="https://www.linkedin.com/in/david-pardo-2102" target="_blank"><img align="left" alt="David P | LinkedIn" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/Social/linkedin.svg" />
 <!-- <a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/behance.svg" />
 <a href="https://dribbble.com/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Dribbble" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/dribbble.svg" />
 <a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/insta.svg" />
