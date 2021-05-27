@@ -11,7 +11,6 @@ I am a mechatronic engineer who enjoys coding and designing mechanical and elect
 <a href="https://david-pardo.com" target="_blank"><img align="left" alt="david-pardo.com" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/Social/www.svg" /></a>
 <a href="https://www.linkedin.com/in/david-pardo-2102" target="_blank"><img align="left" alt="David P | LinkedIn" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/Social/linkedin.svg" /></a>
 <a href="" target="_blank"></a>
-[<img align="left" alt="David P | LinkedIn" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/Social/linkedin.svg" />](https://www.linkedin.com/in/david-pardo-2102){:target="_blank" rel="noopener"}
 <!-- <a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/behance.svg" />
 <a href="https://dribbble.com/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Dribbble" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/dribbble.svg" />
 <a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/insta.svg" />
@@ -37,7 +36,7 @@ I am a mechatronic engineer who enjoys coding and designing mechanical and elect
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3.org/html/){:target="_blank" rel="noopener"}
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/)
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.javascript.com" target="_blank"> <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> </a>
 <a href="https://nuxtjs.org/" target="_blank"> <img align="left" alt="Nuxtjs" width="26px" src="https://nuxtjs.org/logos/nuxt-white.svg"/> </a>
