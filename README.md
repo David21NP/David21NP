@@ -8,9 +8,8 @@ I am a mechatronic engineer who enjoys coding and designing mechanical and elect
 
 (Use dark theme to see my socials)
 
-<a href="https://david-pardo.com" target="_blank"><img align="left" alt="david-pardo.com" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/Social/www.svg" /></a>
+<!-- <a href="https://david-pardo.com" target="_blank"><img align="left" alt="david-pardo.com" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/Social/www.svg" /></a> -->
 <a href="https://www.linkedin.com/in/david-pardo-2102" target="_blank"><img align="left" alt="David P | LinkedIn" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/Social/linkedin.svg" /></a>
-<a href="" target="_blank"></a>
 <!-- <a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/behance.svg" />
 <a href="https://dribbble.com/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Dribbble" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/dribbble.svg" />
 <a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/David21NP/ProfileInfo/blob/master/insta.svg" />
@@ -24,7 +23,7 @@ I am a mechatronic engineer who enjoys coding and designing mechanical and elect
 
 ### 📕 Latest Blog Post
 
-  I'm just beginning my first blog
+  I'm in the process of beginning my first blog
 <!-- BLOG-POST-LIST:START -->
 <!-- - [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
 - [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
