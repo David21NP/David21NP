@@ -2,7 +2,7 @@
 <br/>
 <br/> -->
 
-## Hello there, I'm <a href="https://david-pardo.com" target="_blank">David</a>!
+## Hello there, I'm <a href="https://github.com/David21NP" target="_blank">David</a>!
 
 I am a mechatronic engineer who enjoys coding and designing mechanical and electronic systems.
 
@@ -47,16 +47,26 @@ I am a mechatronic engineer who enjoys coding and designing mechanical and elect
 <a href="https://dart.dev/" target="_blank"> <img align="left" alt="Dart" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/Dart.svg"/> </a>
 <a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Flutter" width="20px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/Flutter.svg"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="Arduino community" width="56px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/ArduinoCommunityLogo_SVG.svg"/> </a>
-<img align="left" alt="GitHub" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/github.svg" />
+<a href="https://github.com/David21NP" target="_blank"> 
+  <img align="left" alt="GitHub" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/github.svg" /> 
+</a>
 <br />
 <br />
 
 ### Softwares:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Matlab" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Softwares/Matlab_Logo.png" />
-<img align="left" alt="Solidworks" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Softwares/Solidworks.png" />
-  <img align="left" alt="Solidworks" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Softwares/unity-tab-circle-black.png" />
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+</a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+  <img align="left" alt="Matlab" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Softwares/Matlab_Logo.png" />
+</a>
+<a href="https://www.solidworks.com/" target="_blank"> 
+  <img align="left" alt="Solidworks" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Softwares/Solidworks.png" />
+</a>
+<a href="https://unity.com/" target="_blank"> 
+  <img align="left" alt="Unity" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Softwares/unity-tab-circle-black.png" /> 
+</a>
 <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/adobexd.png?raw=true"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/illustrator.png?raw=true"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/photoshop.png?raw=true"/> </a>
