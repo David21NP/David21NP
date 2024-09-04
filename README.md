@@ -38,8 +38,8 @@ I am a mechatronic engineer who enjoys coding and designing mechanical and elect
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/)
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.javascript.com" target="_blank"> <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> </a>
-<a href="https://react.dev/" target="_blank"> <img align="left" alt="Reactjs" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/react-icon.png"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/c-programming.png"/> </a>
+<a href="https://react.dev/" target="_blank"> <img align="left" alt="Reactjs" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/react-icon.png"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/c-programming.png"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/c++.png"/> </a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/python-5.svg?raw=true"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
