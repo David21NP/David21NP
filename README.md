@@ -38,14 +38,14 @@ I am a mechatronic engineer who enjoys coding and designing mechanical and elect
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://www.w3schools.com/html/)
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.javascript.com" target="_blank"> <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> </a>
-<a href="https://nuxtjs.org/" target="_blank"> <img align="left" alt="Nuxtjs" width="26px" src="https://nuxt.com/assets/design-kit/logo/icon-green.png"/> </a>
+<a href="https://react.dev/" target="_blank"> <img align="left" alt="Reactjs" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/react-icon.png"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/c-programming.png"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/c++.png"/> </a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/python-5.svg?raw=true"/> </a>
-<!-- <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/c-programming.png"/> </a> -->
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"/> </a>
-<a href="https://dart.dev/" target="_blank"> <img align="left" alt="Dart" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/Dart.svg"/> </a>
-<a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Flutter" width="20px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/Flutter.svg"/> </a>
+<!-- <a href="https://dart.dev/" target="_blank"> <img align="left" alt="Dart" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/Dart.svg"/> </a> -->
+<!-- <a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Flutter" width="20px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/Flutter.svg"/> </a> -->
 <a href="https://www.arduino.cc/" target="_blank"> <img align="left" alt="Arduino community" width="56px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/ArduinoCommunityLogo_SVG.svg"/> </a>
 <a href="https://github.com/David21NP" target="_blank"> 
   <img align="left" alt="GitHub" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Langs/github.svg" /> 
@@ -55,6 +55,9 @@ I am a mechatronic engineer who enjoys coding and designing mechanical and elect
 
 ### Softwares:
 
+<a href="https://neovim.io/" target="_blank">
+  <img align="left" alt="Neovim" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Softwares/neovim-mark.svg" /> 
+</a>
 <a href="https://code.visualstudio.com/" target="_blank">
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 </a>
@@ -67,10 +70,6 @@ I am a mechatronic engineer who enjoys coding and designing mechanical and elect
 <a href="https://unity.com/" target="_blank"> 
   <img align="left" alt="Unity" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/Softwares/unity-tab-circle-black.png" /> 
 </a>
-<!-- <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/photoshop.png?raw=true"/> </a>
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/David21NP/ProfileInfo/blob/master/blender.png?raw=true"/> </a> -->
 
 
 <br />
